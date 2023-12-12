@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cps.CasosBancoEstado" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-12T02:10:14" hostname="DESKTOP-N36GGO1" time="11.305">
+  <properties/>
+  <testcase name="CP002_Comprobar_Informacion_Importante()" classname="cps.CasosBancoEstado" time="11.305"/>
+  <system-out><![CDATA[[Click] - Consulto por rut
+[Sendkeys] Completar rut
+[Click] - Simular
+Valida InformaciÃ³n Importante
+Se ha encontrado elemento de informaciÃ³n importante
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 119.0.6045.105 (38c72552c5e15ba9b3117c0967a0fd105072d7c6-refs/branch-heads/6045@{#1103}) on port 34946
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1702347015.205][WARNING]: This version of ChromeDriver has not been tested with Chrome version 120.
+dic. 11, 2023 11:10:15 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
